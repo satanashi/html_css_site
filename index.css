@@ -19,7 +19,7 @@ h3 {
 }
 .header {
     display: flex;
-    height: 150px;
+    height: 200px;
 }
 .title-block {
     position: relative;
